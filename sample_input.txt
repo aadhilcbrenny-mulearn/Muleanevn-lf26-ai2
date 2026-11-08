@@ -1,0 +1,102 @@
+orders = [
+    {
+        "customer_name": "Arjun",
+        "mobile_no": "9876543210",
+        "items": {
+            "Chicken Biriyani": 2,
+            "Chicken Burger": 1
+        },
+        "total_price" : 400
+    },
+    {
+        "customer_name": "Rahul",
+        "mobile_no": "9876543211",
+        "items": {
+            "Fried Rice": 1,
+            "Masala Dosa": 2
+        },
+        "total_price" : 240
+    },
+    {
+        "customer_name": "Anjali",
+        "mobile_no": "9876543212",
+        "items": {
+            "Chicken Biriyani": 1,
+            "Veg Pizza": 1
+        },
+        "total_price" : 350
+    },
+    {
+        "customer_name": "Adithya",
+        "mobile_no": "9876543213",
+        "items": {
+            "Chicken Burger": 2,
+            "Masala Dosa": 1
+        },
+        "total_price" : 260
+    },
+    {
+        "customer_name": "Meera",
+        "mobile_no": "9876543214",
+        "items": {
+            "Fried Rice": 2,
+            "Veg Pizza": 1
+        },
+        "total_price" : 440
+    },
+    {
+        "customer_name": "Vishnu",
+        "mobile_no": "9876543215",
+        "items": {
+            "Chicken Biriyani": 1,
+            "Fried Rice": 1,
+            "Chicken Burger": 1
+        },
+        "total_price" : 370
+    },
+    {
+        "customer_name": "Sneha",
+        "mobile_no": "9876543216",
+        "items": {
+            "Masala Dosa": 3
+        },
+        "total_price" : 80
+    },
+    {
+        "customer_name": "Akash",
+        "mobile_no": "9876543217",
+        "items": {
+            "Veg Pizza": 2,
+            "Chicken Biriyani": 1
+        },
+        "total_price" : 500
+    },
+    {
+        "customer_name": "Diya",
+        "mobile_no": "9876543218",
+        "items": {
+            "Fried Rice": 1,
+            "Chicken Burger": 2
+        },
+        "total_price" : 320
+    },
+    {
+        "customer_name": "Nikhil",
+        "mobile_no": "9876543219",
+        "items": {
+            "Chicken Biriyani": 2,
+            "Masala Dosa": 2,
+            "Veg Pizza": 1
+        },
+        "total_price" : 620
+    }
+]
+
+
+menu = [
+    {"name": "Chicken Biriyani", "price": 150},
+    {"name": "Fried Rice", "price": 120},
+    {"name": "Chicken Burger", "price": 100},
+    {"name": "Masala Dosa", "price": 60},
+    {"name": "Veg Pizza", "price": 200}
+]

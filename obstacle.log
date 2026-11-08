@@ -1,0 +1,4 @@
+1. The total_price for a new order was always 0. The reason was an inorrect condiiton check at calculateOrder()
+FIX: Fixed the logic, now the price displays correctly
+2. The total price being displayed was incorrect. It calculated delivery charges for each item, not once per order
+FIX: Fixed the logic, now it returns correct total price
